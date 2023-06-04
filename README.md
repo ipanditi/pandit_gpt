@@ -1,2 +1,2 @@
 # pandit_gpt
-Here, I implement a naive, yet a well performing Generative Pre-Trained Transformer using Attention mechanism and Torch
+Here, I implement Generative Pre-Trained Transformer(GPT) using Attention mechanism, decoder and self-attention only architecture.
